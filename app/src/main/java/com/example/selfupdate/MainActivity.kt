@@ -7,6 +7,6 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        //test de commit, al hacer pull
+        //test de commit, al hacer push
     }
 }
